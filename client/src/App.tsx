@@ -30,7 +30,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>Wilders Book with Hamza lo</h1>
+          <h1>Wilders Book with Hamza loance</h1>
         </Container>
       </Header>
       <Container>
